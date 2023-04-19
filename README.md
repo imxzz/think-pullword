@@ -1,5 +1,5 @@
 # think-pullword
-ThinkPHP 分词/抽词 扩展包 `5.1` `6.0`
+ThinkPHP 分词/抽词 扩展包 `5.1` `6.0` `6.1`
 
 使用梁厂的产品 http://www.pullword.com/
 
