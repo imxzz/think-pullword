@@ -1,11 +1,11 @@
 {
-    "name": "xiaodi/think-pullword",
+    "name": "imxzz/think-pullword",
     "description": "ThinkPHP 分词/抽词 扩展包",
     "license": "MIT",
     "authors": [
         {
-            "name": "xiaodi",
-            "email": "liangjinbiao@live.com"
+            "name": "imxzz",
+            "email": "imxzz@qq.com"
         }
     ],
     "keywords": [
