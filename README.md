@@ -10,7 +10,7 @@ ThinkPHP 分词/抽词 扩展包 `5.1` `6.0` `6.1`
 
 ## 安装
 ```
-composer require xiaodi/think-pullword
+composer require imxzz/think-pullword
 ```
 
 ## 使用
